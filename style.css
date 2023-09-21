@@ -64,12 +64,11 @@ body {
   color: #fff;
   font-weight: 500;
   text-decoration: none;
-  transition: color 0.4s;
+  transition: 0.4s ease-in-out;
 }
 
 .nav-list a:hover {
   opacity: 50%;
-  transition: 0.4s ease-in-out;
 }
 
 .banner {
